@@ -1,0 +1,2 @@
+Key = "AKIAX7TZHFBECO3HTDOB"
+Secret = "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"
